@@ -1,0 +1,1115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-112498' action='modify' lat='42.97128370116' lon='-8.47488580604'>
+    <tag k='name' v='As Paradelas de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112499' action='modify' lat='42.96507167987' lon='-8.59053508561'>
+    <tag k='name' v='Vilar de Rei' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112500' action='modify' lat='42.83552340241' lon='-8.50905031967'>
+    <tag k='name' v='O Sisto' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112501' action='modify' lat='42.93856203867' lon='-8.43093103604'>
+    <tag k='name' v='Lamas do Carballal' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112502' action='modify' lat='42.95437938455' lon='-8.50595106427'>
+    <tag k='name' v='A Eirexe' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112503' action='modify' lat='42.96532059497' lon='-8.44611291251'>
+    <tag k='name' v='Sigüeiro' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112504' action='modify' lat='42.97347626048' lon='-8.46820525524'>
+    <tag k='name' v='Os Mallos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112505' action='modify' lat='42.96134787768' lon='-8.41527446317'>
+    <tag k='name' v='O Casal de César' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112506' action='modify' lat='42.92130847852' lon='-8.5356407553'>
+    <tag k='name' v='Rebordaos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112507' action='modify' lat='42.84265415183' lon='-8.520388036'>
+    <tag k='name' v='A Veiga' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112508' action='modify' lat='42.88438687907' lon='-8.55628581107'>
+    <tag k='name' v='As Casas do Rego' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112509' action='modify' lat='42.92258702821' lon='-8.43209517451'>
+    <tag k='name' v='As Quintás' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112510' action='modify' lat='42.91450332346' lon='-8.41488101323'>
+    <tag k='name' v='Amarelle' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112511' action='modify' lat='42.97334382855' lon='-8.46961017141'>
+    <tag k='name' v='Os Muiños' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112512' action='modify' lat='42.88398668127' lon='-8.47604652596'>
+    <tag k='name' v='Bando de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112513' action='modify' lat='42.96304427865' lon='-8.45067635546'>
+    <tag k='name' v='A Polveira' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112514' action='modify' lat='42.89953917198' lon='-8.44720984306'>
+    <tag k='name' v='A Lavacolla' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112515' action='modify' lat='42.89399096617' lon='-8.58446260454'>
+    <tag k='name' v='Xulacasa' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112516' action='modify' lat='42.86668918547' lon='-8.59232801935'>
+    <tag k='name' v='As Casas do Monte' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112517' action='modify' lat='42.94879591929' lon='-8.62710371755'>
+    <tag k='name' v='Belén' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112518' action='modify' lat='42.95357297517' lon='-8.46494972638'>
+    <tag k='name' v='Marantes' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112519' action='modify' lat='42.86563161337' lon='-8.58324880306'>
+    <tag k='name' v='A Igrexa de Laraño' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112520' action='modify' lat='42.89993911629' lon='-8.45310044159'>
+    <tag k='name' v='A Praza' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112521' action='modify' lat='42.86468344408' lon='-8.49578033479'>
+    <tag k='name' v='A Cacharela' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112522' action='modify' lat='42.92220958966' lon='-8.55438315308'>
+    <tag k='name' v='A Peregrina' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112523' action='modify' lat='42.89389941087' lon='-8.51780265021'>
+    <tag k='name' v='O Porto do Medio' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-112524' action='modify' lat='42.92762711773' lon='-8.4644419261'>
+    <tag k='name' v='A Torre da Enfesta' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112525' action='modify' lat='42.94765430928' lon='-8.47085628358'>
+    <tag k='name' v='Cortos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112526' action='modify' lat='42.92536910192' lon='-8.4633925653'>
+    <tag k='name' v='Aldea de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112527' action='modify' lat='42.95240786294' lon='-8.4884641445'>
+    <tag k='name' v='Nemenzo de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112528' action='modify' lat='42.86416626242' lon='-8.57620368531'>
+    <tag k='name' v='A Rocha Nova' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112529' action='modify' lat='42.87972987496' lon='-8.48357142991'>
+    <tag k='name' v='Pousada de Bando' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112530' action='modify' lat='42.852501676' lon='-8.51395195553'>
+    <tag k='name' v='Gaioso' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112531' action='modify' lat='42.94191403914' lon='-8.49060328914'>
+    <tag k='name' v='Vilariño de Nemenzo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112532' action='modify' lat='42.97349825717' lon='-8.51667654019'>
+    <tag k='name' v='Neiro de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112533' action='modify' lat='42.87623891872' lon='-8.61616325519'>
+    <tag k='name' v='Vilastrexe' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112534' action='modify' lat='42.89539056193' lon='-8.61122553236'>
+    <tag k='name' v='Carlexo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112535' action='modify' lat='42.86465999652' lon='-8.60190782351'>
+    <tag k='name' v='Pardiñas de Abaixo' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-112536' action='modify' lat='42.89195062491' lon='-8.58230144614'>
+    <tag k='name' v='Codesedas' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112537' action='modify' lat='42.88990425688' lon='-8.45791746146'>
+    <tag k='name' v='Neiro' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112538' action='modify' lat='42.8724159995' lon='-8.50546350558'>
+    <tag k='name' v='Sanxuás' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112539' action='modify' lat='42.85301353413' lon='-8.51612198272'>
+    <tag k='name' v='O Igresario do Eixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112540' action='modify' lat='42.86763034174' lon='-8.49100026295'>
+    <tag k='name' v='Sobríns' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112541' action='modify' lat='42.92645688001' lon='-8.52199788448'>
+    <tag k='name' v='San Silvestre' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112542' action='modify' lat='42.94062339871' lon='-8.54315649292'>
+    <tag k='name' v='Marzo de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112543' action='modify' lat='42.83268943343' lon='-8.51947661724'>
+    <tag k='name' v='Corexo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112544' action='modify' lat='42.8567231577' lon='-8.50894260718'>
+    <tag k='name' v='Vilacoba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112545' action='modify' lat='42.94298860255' lon='-8.615186969'>
+    <tag k='name' v='O Roxido' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112546' action='modify' lat='42.96131231693' lon='-8.50525417801'>
+    <tag k='name' v='A Casanova' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112547' action='modify' lat='42.931700503' lon='-8.47577353377'>
+    <tag k='name' v='O Forte' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112548' action='modify' lat='42.88731995454' lon='-8.5561354142'>
+    <tag k='name' v='San Paio do Monte' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112549' action='modify' lat='42.91867992858' lon='-8.44064045834'>
+    <tag k='name' v='A Castiñeira Pequena' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112550' action='modify' lat='42.91490043803' lon='-8.56190216269'>
+    <tag k='name' v='Pardaces de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112551' action='modify' lat='42.8727495881' lon='-8.49715568727'>
+    <tag k='name' v='Lobio' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112552' action='modify' lat='42.86644246668' lon='-8.57941992031'>
+    <tag k='name' v='A Amañecida' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112553' action='modify' lat='42.97660776148' lon='-8.50581651292'>
+    <tag k='name' v='Vilariño de Busto' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112554' action='modify' lat='42.90123702637' lon='-8.45621207573'>
+    <tag k='name' v='Xan Xordo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112555' action='modify' lat='42.90892541542' lon='-8.47377171477'>
+    <tag k='name' v='Reboredo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112556' action='modify' lat='42.89305395419' lon='-8.60897912743'>
+    <tag k='name' v='Feáns' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112557' action='modify' lat='42.89905608594' lon='-8.59487324679'>
+    <tag k='name' v='A Cova' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112558' action='modify' lat='42.91536871554' lon='-8.58185172018'>
+    <tag k='name' v='Vríns' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112559' action='modify' lat='42.96105475419' lon='-8.45588781074'>
+    <tag k='name' v='A Caluba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112560' action='modify' lat='42.87773386831' lon='-8.60835553937'>
+    <tag k='name' v='Roxos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112561' action='modify' lat='42.8372162138' lon='-8.49691275171'>
+    <tag k='name' v='Ardagán' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112562' action='modify' lat='42.90481501999' lon='-8.44709636249'>
+    <tag k='name' v='A Sionlla' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112563' action='modify' lat='42.93803346572' lon='-8.58315092265'>
+    <tag k='name' v='Vilas' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112564' action='modify' lat='42.89514983018' lon='-8.58974095042'>
+    <tag k='name' v='Folgoso' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112565' action='modify' lat='42.94248034389' lon='-8.50198513818'>
+    <tag k='name' v='Lobra' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112566' action='modify' lat='42.87407490894' lon='-8.59150354606'>
+    <tag k='name' v='Munín' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112567' action='modify' lat='42.93776341142' lon='-8.44084971132'>
+    <tag k='name' v='Frades' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112568' action='modify' lat='42.86003162261' lon='-8.57709415331'>
+    <tag k='name' v='A Rocha Vella' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-112569' action='modify' lat='42.87893374191' lon='-8.62227224956'>
+    <tag k='name' v='Portela de Villestro' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112570' action='modify' lat='42.89418343605' lon='-8.52189646887'>
+    <tag k='name' v='Mallou de Abaixo' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-112571' action='modify' lat='42.84056494662' lon='-8.50850561209'>
+    <tag k='name' v='Vixoi' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112572' action='modify' lat='42.93859721051' lon='-8.56064108001'>
+    <tag k='name' v='Miramontes' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112573' action='modify' lat='42.91544709724' lon='-8.48520307192'>
+    <tag k='name' v='A Sionlla de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112574' action='modify' lat='42.94008565015' lon='-8.5333357632'>
+    <tag k='name' v='Marzo de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112575' action='modify' lat='42.95533622245' lon='-8.43744374778'>
+    <tag k='name' v='A Igrexa de Barciela' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112576' action='modify' lat='42.92709583098' lon='-8.4826416503'>
+    <tag k='name' v='A Sionlla de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112577' action='modify' lat='42.86157873486' lon='-8.49022660744'>
+    <tag k='name' v='A Costa de Aríns' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112578' action='modify' lat='42.95018472456' lon='-8.55556964898'>
+    <tag k='name' v='A Valiña' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112579' action='modify' lat='42.95406481465' lon='-8.61316860649'>
+    <tag k='name' v='Diáns' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112580' action='modify' lat='42.95701263508' lon='-8.48882123366'>
+    <tag k='name' v='Nemenzo de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112581' action='modify' lat='42.89855313013' lon='-8.44317954835'>
+    <tag k='name' v='O Pontillón' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112582' action='modify' lat='42.93475954331' lon='-8.44400083111'>
+    <tag k='name' v='Gunín' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112583' action='modify' lat='42.90137089293' lon='-8.44291575408'>
+    <tag k='name' v='A Esquipa' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112584' action='modify' lat='42.8790673336' lon='-8.59647242203'>
+    <tag k='name' v='Pedrido' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112585' action='modify' lat='42.84780461727' lon='-8.52340678182'>
+    <tag k='name' v='Piñeiro do Eixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112586' action='modify' lat='42.94740724846' lon='-8.54855147293'>
+    <tag k='name' v='A Igrexa de Grixoa' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112587' action='modify' lat='42.96644674997' lon='-8.45154034372'>
+    <tag k='name' v='O Valado de Barciela' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112588' action='modify' lat='42.94780604499' lon='-8.58706625529'>
+    <tag k='name' v='Lamascal' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112589' action='modify' lat='42.92373346496' lon='-8.53894685191'>
+    <tag k='name' v='A Escarabuña' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112590' action='modify' lat='42.86140449899' lon='-8.50723582708'>
+    <tag k='name' v='Igresario de Aríns' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112591' action='modify' lat='42.90276311506' lon='-8.55373290804'>
+    <tag k='name' v='Montes' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112592' action='modify' lat='42.95044820585' lon='-8.46598392659'>
+    <tag k='name' v='Vila Fernández' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112593' action='modify' lat='42.92703930848' lon='-8.44045444518'>
+    <tag k='name' v='Piñeiro do Carballal' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112594' action='modify' lat='42.83297155339' lon='-8.49282056122'>
+    <tag k='name' v='A Cañoteira de Marrozos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112595' action='modify' lat='42.88804750022' lon='-8.57828670424'>
+    <tag k='name' v='Marmancou' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112596' action='modify' lat='42.82715847556' lon='-8.48958274952'>
+    <tag k='name' v='A Susana' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112597' action='modify' lat='42.90910650782' lon='-8.42633549993'>
+    <tag k='name' v='San Paio' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112598' action='modify' lat='42.89697249328' lon='-8.48132592257'>
+    <tag k='name' v='O Castro de Bando' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112599' action='modify' lat='42.95239527676' lon='-8.40390038964'>
+    <tag k='name' v='Pousada de César' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112600' action='modify' lat='42.85091626177' lon='-8.51866564202'>
+    <tag k='name' v='Os Laranxos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112601' action='modify' lat='42.94088361487' lon='-8.48366589738'>
+    <tag k='name' v='O Barreiro' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112602' action='modify' lat='42.89243537074' lon='-8.57715259191'>
+    <tag k='name' v='Correxíns' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112603' action='modify' lat='42.95572274368' lon='-8.43570140912'>
+    <tag k='name' v='Benavente' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112604' action='modify' lat='42.90010120162' lon='-8.55197987451'>
+    <tag k='name' v='O Casal da Horta' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112605' action='modify' lat='42.95433703101' lon='-8.51034363201'>
+    <tag k='name' v='Estación de Verdía' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112606' action='modify' lat='42.96255580025' lon='-8.41424193873'>
+    <tag k='name' v='A Torre de César' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112607' action='modify' lat='42.93807416657' lon='-8.47030245807'>
+    <tag k='name' v='Agualada' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112608' action='modify' lat='42.96379958913' lon='-8.4167402046'>
+    <tag k='name' v='A Igrexa de César' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112609' action='modify' lat='42.87326878491' lon='-8.59342097444'>
+    <tag k='name' v='Lamas de Laraño' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112610' action='modify' lat='42.93155735992' lon='-8.5300247456'>
+    <tag k='name' v='Son de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112611' action='modify' lat='42.89088753468' lon='-8.47646291251'>
+    <tag k='name' v='A Lagoa' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112612' action='modify' lat='42.85927921087' lon='-8.50829463087'>
+    <tag k='name' v='Andrade' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112613' action='modify' lat='42.96038810248' lon='-8.45523922015'>
+    <tag k='name' v='O Vintecatro' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112614' action='modify' lat='42.90392643445' lon='-8.42960533658'>
+    <tag k='name' v='As Quenllas' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112615' action='modify' lat='42.89860283496' lon='-8.43787176162'>
+    <tag k='name' v='Albarde' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112616' action='modify' lat='42.92072856199' lon='-8.49014945431'>
+    <tag k='name' v='Formarís' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112617' action='modify' lat='42.87841220954' lon='-8.49982411897'>
+    <tag k='name' v='Agra dos Campos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112618' action='modify' lat='42.857629053' lon='-8.549394076'>
+    <tag k='name' v='Pai da Cana' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-112619' action='modify' lat='42.95673250503' lon='-8.61981469775'>
+    <tag k='name' v='Frensa' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112620' action='modify' lat='42.92874220774' lon='-8.5333958784'>
+    <tag k='name' v='Son de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112621' action='modify' lat='42.91894446676' lon='-8.52352041506'>
+    <tag k='name' v='Paradela' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112622' action='modify' lat='42.97560507864' lon='-8.49449629609'>
+    <tag k='name' v='Os Curráis' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112623' action='modify' lat='42.91230431719' lon='-8.60548457323'>
+    <tag k='name' v='Piñor' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112624' action='modify' lat='42.86311792531' lon='-8.48399631932'>
+    <tag k='name' v='O Aramio' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112625' action='modify' lat='42.9127166609' lon='-8.55281527585'>
+    <tag k='name' v='O Queiroal' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112626' action='modify' lat='42.84798258897' lon='-8.54112470696'>
+    <tag k='name' v='Outeiro do Castiñeiriño' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112627' action='modify' lat='42.91637587342' lon='-8.52954660048'>
+    <tag k='name' v='Boisaca' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-112628' action='modify' lat='42.96126463783' lon='-8.44998299961'>
+    <tag k='name' v='A Fonte do Torno' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112629' action='modify' lat='42.95898269307' lon='-8.55902901459'>
+    <tag k='name' v='A Ponte Alvar' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112630' action='modify' lat='42.96024922307' lon='-8.41644059454'>
+    <tag k='name' v='As Casas de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112631' action='modify' lat='42.88601468301' lon='-8.60309970811'>
+    <tag k='name' v='Tras Iglesia' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112632' action='modify' lat='42.89317148971' lon='-8.55198920909'>
+    <tag k='name' v='Lermo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112633' action='modify' lat='42.95228997079' lon='-8.54824030703'>
+    <tag k='name' v='A Ponte' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112634' action='modify' lat='42.89205872992' lon='-8.61604703197'>
+    <tag k='name' v='Frais' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112635' action='modify' lat='42.86454631404' lon='-8.6016834113'>
+    <tag k='name' v='Pardiñas' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112636' action='modify' lat='42.88030357641' lon='-8.58661412703'>
+    <tag k='name' v='O Carballal' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112637' action='modify' lat='42.89038210151' lon='-8.5029092493'>
+    <tag k='name' v='A Granxa de San Lázaro' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112638' action='modify' lat='42.91907210864' lon='-8.51282868208'>
+    <tag k='name' v='Garabal' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112639' action='modify' lat='42.86532685735' lon='-8.59965326749'>
+    <tag k='name' v='Pardiñas de Arriba' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-112640' action='modify' lat='42.97014939444' lon='-8.47409932392'>
+    <tag k='name' v='As Paradelas de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112641' action='modify' lat='42.84074629632' lon='-8.52773456374'>
+    <tag k='name' v='A Uceira' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112642' action='modify' lat='42.9605982951' lon='-8.44251493041'>
+    <tag k='name' v='Albeanas' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112643' action='modify' lat='42.83017046909' lon='-8.49178351662'>
+    <tag k='name' v='Outeiro de Marrozos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112644' action='modify' lat='42.86872335458' lon='-8.59201255099'>
+    <tag k='name' v='O Rial de Laraño' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112645' action='modify' lat='42.96260641788' lon='-8.46036249572'>
+    <tag k='name' v='Vilar de Marantes' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112646' action='modify' lat='42.84591251703' lon='-8.56082363114'>
+    <tag k='name' v='A Curuxeira' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112647' action='modify' lat='42.84339948675' lon='-8.50407268512'>
+    <tag k='name' v='Marrociños' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112648' action='modify' lat='42.95269950098' lon='-8.50830748195'>
+    <tag k='name' v='Quintáns de Verdía' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112649' action='modify' lat='42.93632419971' lon='-8.47883771258'>
+    <tag k='name' v='Vilasuso' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112650' action='modify' lat='42.9002457679' lon='-8.43135096082'>
+    <tag k='name' v='Noval' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112651' action='modify' lat='42.9325884273' lon='-8.46335957474'>
+    <tag k='name' v='A Igrexa da Enfesta' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112652' action='modify' lat='42.95595273955' lon='-8.52018892532'>
+    <tag k='name' v='Ínsuas' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112653' action='modify' lat='42.8574260336' lon='-8.51942489049'>
+    <tag k='name' v='A Granxa' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-112654' action='modify' lat='42.91223970503' lon='-8.54938985556'>
+    <tag k='name' v='Monte da Vila' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112655' action='modify' lat='42.87399523783' lon='-8.58589280449'>
+    <tag k='name' v='A Barcia' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112656' action='modify' lat='42.93238987779' lon='-8.55547849517'>
+    <tag k='name' v='O Bargo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112657' action='modify' lat='42.89184123139' lon='-8.49006225131'>
+    <tag k='name' v='San Marcos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112658' action='modify' lat='42.8847280723' lon='-8.56233564403'>
+    <tag k='name' v='Bar de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112659' action='modify' lat='42.91571878115' lon='-8.43910536008'>
+    <tag k='name' v='A Castiñeira Grande' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112660' action='modify' lat='42.98347978812' lon='-8.49613406795'>
+    <tag k='name' v='Barcavella' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112661' action='modify' lat='42.97158232373' lon='-8.49903013564'>
+    <tag k='name' v='A Igrexa de Busto' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112662' action='modify' lat='42.95982464928' lon='-8.4394061238'>
+    <tag k='name' v='A Barciela' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112663' action='modify' lat='42.90639797392' lon='-8.54508681976'>
+    <tag k='name' v='O Romaño' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112664' action='modify' lat='42.97698301874' lon='-8.51452793205'>
+    <tag k='name' v='A Figueira' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112665' action='modify' lat='42.87062454859' lon='-8.6036765655'>
+    <tag k='name' v='Silvouta' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112666' action='modify' lat='42.93353037771' lon='-8.4493895082'>
+    <tag k='name' v='Piñeiro da Enfesta' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112667' action='modify' lat='42.96363319045' lon='-8.41356296169'>
+    <tag k='name' v='O Castro de César' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112668' action='modify' lat='42.87734652855' lon='-8.59459895683'>
+    <tag k='name' v='Piñeiro de Villestro' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112669' action='modify' lat='42.92083917814' lon='-8.50799800701'>
+    <tag k='name' v='O Barral' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112670' action='modify' lat='42.9173894632' lon='-8.42852478494'>
+    <tag k='name' v='Requesende' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112671' action='modify' lat='42.97673140254' lon='-8.49019162422'>
+    <tag k='name' v='O Castro de Busto' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112672' action='modify' lat='42.95624939438' lon='-8.61325937688'>
+    <tag k='name' v='Gamil' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112673' action='modify' lat='42.88564775523' lon='-8.56321399959'>
+    <tag k='name' v='Bar de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112674' action='modify' lat='42.95886154318' lon='-8.61430990319'>
+    <tag k='name' v='A Lamela' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112675' action='modify' lat='42.8509361964' lon='-8.51151023837'>
+    <tag k='name' v='Pereiras do Eixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112676' action='modify' lat='42.84361787424' lon='-8.52621187728'>
+    <tag k='name' v='O Valado do Eixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112677' action='modify' lat='42.95824968859' lon='-8.42306737983'>
+    <tag k='name' v='Tras Vea' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112678' action='modify' lat='42.88467900287' lon='-8.48530435071'>
+    <tag k='name' v='Bando de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112679' action='modify' lat='42.9515911568' lon='-8.55451928788'>
+    <tag k='name' v='Vilar de Grixoa' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112680' action='modify' lat='42.84751015671' lon='-8.52869078886'>
+    <tag k='name' v='Bornais' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112681' action='modify' lat='42.85720721756' lon='-8.58857842034'>
+    <tag k='name' v='Coira' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112682' action='modify' lat='42.97418064563' lon='-8.51437074714'>
+    <tag k='name' v='Neiro de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112683' action='modify' lat='42.92446863515' lon='-8.51277849156'>
+    <tag k='name' v='As Pereiras de San Caetano' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112684' action='modify' lat='42.83643089584' lon='-8.50498485869'>
+    <tag k='name' v='Aldrei' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112685' action='modify' lat='42.95338216207' lon='-8.48282766089'>
+    <tag k='name' v='A Pedra' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112686' action='modify' lat='42.95530365951' lon='-8.55873262923'>
+    <tag k='name' v='Albudiño' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112687' action='modify' lat='42.89134350479' lon='-8.45006958969'>
+    <tag k='name' v='Vilamaior' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112688' action='modify' lat='42.97017912797' lon='-8.57915874292'>
+    <tag k='name' v='A Igrexa de Fecha' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112689' action='modify' lat='42.87048722607' lon='-8.58583731808'>
+    <tag k='name' v='Paredes de Laraño' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112690' action='modify' lat='42.90571930095' lon='-8.45735460876'>
+    <tag k='name' v='Casais' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112691' action='modify' lat='42.95463608772' lon='-8.46823642032'>
+    <tag k='name' v='O Outeiro de Marantes' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112692' action='modify' lat='42.9128963943' lon='-8.55991313616'>
+    <tag k='name' v='Pardaces de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112693' action='modify' lat='42.88358286117' lon='-8.60743437462'>
+    <tag k='name' v='Quintáns de Villestro' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112694' action='modify' lat='42.94271603028' lon='-8.47143649002'>
+    <tag k='name' v='A Lameira de Marantes' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112695' action='modify' lat='42.93357728019' lon='-8.51443832228'>
+    <tag k='name' v='Bálsoma' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112696' action='modify' lat='42.97442621573' lon='-8.58895903311'>
+    <tag k='name' v='Vachao' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112697' action='modify' lat='42.92907507533' lon='-8.52747125771'>
+    <tag k='name' v='A Xesteira' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112698' action='modify' lat='42.91940204017' lon='-8.56109387493'>
+    <tag k='name' v='Aradas' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112699' action='modify' lat='42.94980051059' lon='-8.51824220631'>
+    <tag k='name' v='Vilar de Outeiro' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112700' action='modify' lat='42.88341162161' lon='-8.57671305757'>
+    <tag k='name' v='As Moas de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112701' action='modify' lat='42.96620840429' lon='-8.46087648533'>
+    <tag k='name' v='Gosende' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112702' action='modify' lat='42.93349435322' lon='-8.58837213656'>
+    <tag k='name' v='Roán' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112703' action='modify' lat='42.89257512358' lon='-8.55467530346'>
+    <tag k='name' v='San Ignacio do Monte' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112704' action='modify' lat='42.8623127597' lon='-8.58788218674'>
+    <tag k='name' v='O Casal de Laraño' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112705' action='modify' lat='42.85359582272' lon='-8.50906211633'>
+    <tag k='name' v='O Eixo de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112706' action='modify' lat='42.9302980275' lon='-8.44098004174'>
+    <tag k='name' v='Tarrío' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112707' action='modify' lat='42.85822738174' lon='-8.51398953252'>
+    <tag k='name' v='A Devesa' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112708' action='modify' lat='42.89660357069' lon='-8.43042148427'>
+    <tag k='name' v='Mourentán' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112709' action='modify' lat='42.97288136681' lon='-8.50929872561'>
+    <tag k='name' v='Ramelle' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112710' action='modify' lat='42.90619414084' lon='-8.57401658129'>
+    <tag k='name' v='A Fontecova' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112711' action='modify' lat='42.87743770486' lon='-8.57894457735'>
+    <tag k='name' v='As Moas de Baixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112712' action='modify' lat='42.95717707712' lon='-8.4684098568'>
+    <tag k='name' v='Ramil' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112713' action='modify' lat='42.87450303262' lon='-8.50095313248'>
+    <tag k='name' v='A Pena' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112714' action='modify' lat='42.8521309983' lon='-8.54589380913'>
+    <tag k='name' v='O Casal do Castiñeiriño' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-112715' action='modify' lat='42.84303099631' lon='-8.47819233583'>
+    <tag k='name' v='Gamás' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112716' action='modify' lat='42.86418970298' lon='-8.58216503897'>
+    <tag k='name' v='Santomil' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112717' action='modify' lat='42.95829471739' lon='-8.50584343001'>
+    <tag k='name' v='Verdía de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112718' action='modify' lat='42.96981972357' lon='-8.48304551347'>
+    <tag k='name' v='Chorente' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112719' action='modify' lat='42.92003119714' lon='-8.55269597337'>
+    <tag k='name' v='Sarela de Arriba' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112720' action='modify' lat='42.95609125991' lon='-8.61759153245'>
+    <tag k='name' v='Gallufe' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112721' action='modify' lat='42.94419617552' lon='-8.46853314258'>
+    <tag k='name' v='A Torre de Marantes' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112722' action='modify' lat='42.95729689836' lon='-8.42520292185'>
+    <tag k='name' v='Candelabeira' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112723' action='modify' lat='42.91984566388' lon='-8.58944381266'>
+    <tag k='name' v='A Portela de Figueiras' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112724' action='modify' lat='42.84942932325' lon='-8.51164223696'>
+    <tag k='name' v='O Eixo de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112725' action='modify' lat='42.94628939838' lon='-8.46696080992'>
+    <tag k='name' v='A Rúa Travesa de Marantes' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112726' action='modify' lat='42.8777840792' lon='-8.56903553624'>
+    <tag k='name' v='Sarela de Abaixo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112727' action='modify' lat='42.94453111377' lon='-8.59751393493'>
+    <tag k='name' v='Camouzo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112728' action='modify' lat='42.86803421224' lon='-8.58942546094'>
+    <tag k='name' v='Larañiño' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112729' action='modify' lat='42.90699493882' lon='-8.61682533489'>
+    <tag k='name' v='Reborido' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112730' action='modify' lat='42.86521349568' lon='-8.58928243706'>
+    <tag k='name' v='Reibó' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112731' action='modify' lat='42.9457428292' lon='-8.59024587831'>
+    <tag k='name' v='Fontoade' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112732' action='modify' lat='42.85758171759' lon='-8.48860931284'>
+    <tag k='name' v='Fornás' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-112733' action='modify' lat='42.87250970261' lon='-8.46056711668'>
+    <tag k='name' v='Zaramacedo' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-113037' action='modify' lat='42.88891654407' lon='-8.55328336892'>
+    <tag k='name' v='As Casas Novas' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113038' action='modify' lat='42.85873809668' lon='-8.53304302278'>
+    <tag k='name' v='Lamas de Abade' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113039' action='modify' lat='42.86747369099' lon='-8.57552847409'>
+    <tag k='name' v='A Ponte Vella' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113041' action='modify' lat='42.85870408031' lon='-8.56768770812'>
+    <tag k='name' v='A Poza Real' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113042' action='modify' lat='42.86059095603' lon='-8.52732072012'>
+    <tag k='name' v='Angrois' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113043' action='modify' lat='42.86043256202' lon='-8.55849178916'>
+    <tag k='name' v='A Fervenza de Conxo' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113044' action='modify' lat='42.86751784246' lon='-8.53288453953'>
+    <tag k='name' v='Picaños' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113045' action='modify' lat='42.87670952968' lon='-8.52569547338'>
+    <tag k='name' v='Cotaredo' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113046' action='modify' lat='42.89363655608' lon='-8.50976825185'>
+    <tag k='name' v='Piñeiro' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113047' action='modify' lat='42.86213830207' lon='-8.5473014377'>
+    <tag k='name' v='Monte do Seixo' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113048' action='modify' lat='42.87534398519' lon='-8.52240607066'>
+    <tag k='name' v='O Viso' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113049' action='modify' lat='42.89510062645' lon='-8.52778687651'>
+    <tag k='name' v='Mallou de Arriba' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113050' action='modify' lat='42.89616779937' lon='-8.5477614018'>
+    <tag k='name' v='O Avío' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113051' action='modify' lat='42.87371872628' lon='-8.56457493738'>
+    <tag k='name' v='A Ponte de Santo Domingo' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113052' action='modify' lat='42.86646170576' lon='-8.52953195559'>
+    <tag k='name' v='O Cruceiro de Sar' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113053' action='modify' lat='42.88243081355' lon='-8.50927331205'>
+    <tag k='name' v='Paredes de San Lázaro' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113054' action='modify' lat='42.88603948683' lon='-8.50979568873'>
+    <tag k='name' v='As Casas do Vento' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113055' action='modify' lat='42.87904479973' lon='-8.56090153657'>
+    <tag k='name' v='A Ponte Sarela' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-113056' action='modify' lat='42.8581568606' lon='-8.57016317994'>
+    <tag k='name' v='O Rial' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113057' action='modify' lat='42.8865941219' lon='-8.55015818026'>
+    <tag k='name' v='A Ponte da Asén' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113058' action='modify' lat='42.87775725143' lon='-8.52694160774'>
+    <tag k='name' v='As Casas da Hedra' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113059' action='modify' lat='42.86138457202' lon='-8.5494964003'>
+    <tag k='name' v='Ponte Pereda' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113060' action='modify' lat='42.86478420612' lon='-8.56602983528'>
+    <tag k='name' v='A Volta do Castro' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113061' action='modify' lat='42.89012287692' lon='-8.53380298377'>
+    <tag k='name' v='San Caetano' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113062' action='modify' lat='42.89214657589' lon='-8.54083895499'>
+    <tag k='name' v='Vite de Abaixo' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113063' action='modify' lat='42.86889063613' lon='-8.5697998244'>
+    <tag k='name' v='Os Chouchiños' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113064' action='modify' lat='42.87768612099' lon='-8.52911348436'>
+    <tag k='name' v='As Pontes do Viso' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113065' action='modify' lat='42.89508110958' lon='-8.54180880196'>
+    <tag k='name' v='Vite de Arriba' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113066' action='modify' lat='42.86427938133' lon='-8.55714521334'>
+    <tag k='name' v='Conxo de Arriba' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113067' action='modify' lat='42.89225957838' lon='-8.54751716947'>
+    <tag k='name' v='Vista Alegre' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113068' action='modify' lat='42.86299233565' lon='-8.55662809214'>
+    <tag k='name' v='Conxo de Abaixo' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113069' action='modify' lat='42.8990184502' lon='-8.54593198203'>
+    <tag k='name' v='Ponte Pedriña de Arriba' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113070' action='modify' lat='42.87093657369' lon='-8.57373680026'>
+    <tag k='name' v='Vidan Vello' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113071' action='modify' lat='42.88519394555' lon='-8.50421429453'>
+    <tag k='name' v='Os Abetos' />
+    <tag k='place' v='hamlet' />
+  </node>
+  <node id='-113072' action='modify' lat='42.89333106745' lon='-8.54032465288'>
+    <tag k='name' v='Cima da Eira' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113073' action='modify' lat='42.86136106224' lon='-8.56355266195'>
+    <tag k='name' v='Torrente' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113074' action='modify' lat='42.87977253501' lon='-8.52789615384'>
+    <tag k='name' v='O Vieiro do Viso' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113075' action='modify' lat='42.85601824074' lon='-8.5425947784'>
+    <tag k='name' v='O Combarro' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113076' action='modify' lat='42.87935781421' lon='-8.53134155656'>
+    <tag k='name' v='O Outeiro do Viso' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113077' action='modify' lat='42.89157802459' lon='-8.50978455589'>
+    <tag k='name' v='Amio' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113078' action='modify' lat='42.90096869333' lon='-8.52711984676'>
+    <tag k='name' v='Meixonfrío' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+  <node id='-113079' action='modify' lat='42.86067715176' lon='-8.56586872451'>
+    <tag k='name' v='A Ponte da Rocha' />
+    <tag k='place' v='neighbourhood' />
+  </node>
+</osm>
